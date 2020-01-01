@@ -2,7 +2,7 @@ resources:
   - name: myAppRepo
     type: GitRepo
     configuration:
-      gitProvider: github
+      gitProvider: omerhgithub
       path: omerh1/pipelines-simple-steps
 pipelines:
   - name: pipeline_hello_world
