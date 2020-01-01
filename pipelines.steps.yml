@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: github
-      path: BatelT/pipelines-simple-steps
+      path: omerh1/pipelines-simple-steps
 pipelines:
   - name: pipeline_hello_world
     configuration:
